@@ -1,3 +1,16 @@
+### 🚀 Java Grading Assistant System
+
+Experience the power of my Java project that leverages a REST API to efficiently store and manage data. This project focuses on establishing and managing student-teacher relationships within various classes, with a special emphasis on assignments. Each class is represented by Java entities such as Assignment, AssignmentStatistics, AssignmentSubmission, Course, GradingJob, GradingPolicy, JobStatus, Question, QuestionSolution, QuestionStatistics, QuestionType, and Student.
+
+### 🔧 Key Features:
+
+REST API Integration: Seamlessly interact with the system through a robust REST API.
+Student-Teacher Relationships: Establish and maintain relationships for effective collaboration.
+Grading Assistant Code: Recent additions include Grading Assistant Code for enhanced functionality.
+Data Management: Efficiently store and retrieve data for various components like assignments and questions.
+Explore the intricacies of the Grading Assistant System, dive into the codebase, and witness the seamless orchestration of student-teacher dynamics.🌟
+
+
 ### Before running the project
 - Install JDK 17
 - Install MongoDB Community Edition
